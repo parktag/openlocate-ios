@@ -1,4 +1,3 @@
-
 ![OpenLocate](http://imageshack.com/a/img922/4800/Pihgqn.png)
 
 We’re building an open SDK to collect location data (like GPS) from phones, for apps like yours
@@ -305,3 +304,6 @@ If you want to have the SDK send data to your own AWS s3 environment for example
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+=======
+# openlocate-ios
+customized openlocate-ios fork
