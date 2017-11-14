@@ -42,7 +42,7 @@ private protocol OpenLocateType {
 
 public final class OpenLocate: OpenLocateType {
     private enum Constants {
-        static let defaultTransmissionInterval: TimeInterval = 8 * 60 * 60 // 8 Hours
+        static let defaultTransmissionInterval: TimeInterval = 1 * 60 // 1 Minute
     }
 
     private var locationService: LocationServiceType?
